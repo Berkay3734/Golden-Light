@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+
+# Next.js
+.next/
+
+# Yarn
+yarn.lock
+
+# Expo
+.expo/
+node_modules/
+.DS_Store
+*.idea
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# npm
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Jest
+coverage/
